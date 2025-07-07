@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👗 Gen AI Virtual Try-On Clothes
 
 A cutting-edge, Gen AI-powered virtual try-on web application that enables users to upload a person (model) image and a clothing item image to generate photorealistic try-on previews in seconds. Built using Google Gemini (Generative AI) and FastAPI, this tool delivers high-fidelity outfit visualization, facial identity preservation, background replacement, and seamless garment rendering—perfect for fashion tech, e-commerce, and virtual fitting room experiences.
@@ -120,3 +121,6 @@ This was built to explore fashion AI possibilities using state-of-the-art multim
 
 **Narender Keswani**  
 🔗 [GitHub](https://github.com/narender-rk10) | 💼 [LinkedIn](https://linkedin.com/in/narender-keswani) | 🌐 [Website](https://www.narenderkeswani.com)
+=======
+# GenAI-Virtual-TryOn-Cloths
+>>>>>>> d10fa6a3fa286cde218df2930466389f664e8cf8
